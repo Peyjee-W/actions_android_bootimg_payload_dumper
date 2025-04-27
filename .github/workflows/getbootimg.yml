@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.3.31/miui_ALIOTH_21.3.31_25fc8f0d66_11.0.zip
+  ROM_URL: https://superota.d.miui.com/OS2.0.8.0.VMYCNXM/liuqin-ota_full-OS2.0.8.0.VMYCNXM-user-15.0-ce74fb3ee8.zip?t=1745739278&s=f1e786e47b68c28c1bf5370482e46abb
   TZ: Asia/Shanghai
 
 jobs:
